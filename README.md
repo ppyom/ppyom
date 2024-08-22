@@ -17,6 +17,45 @@
 
 </div>
 
+<!--
+**ppyom/ppyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+## ✨
+
+### Front-End
+
+![HTML](https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=ffffff&labelColor=E34C26&color=E34C26)
+![CSS](https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=ffffff&labelColor=2965f1&color=2965f1)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=323330&labelColor=f0db4f&color=f0db4f)
+
+![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=ffffff&labelColor=61dafb&color=61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=3178c6&color=3178c6)
+
+### Back-End
+
+![Spring](https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=spring&logoColor=ffffff&labelColor=6db33f&color=6db33f)
+![Nodejs](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Node.js&logoColor=ffffff&labelColor=3c873a&color=3c873a)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=Express&logoColor=ffffff&labelColor=000000&color=000000)
+
+### DataBase
+
+![Oracle](https://img.shields.io/badge/Oracle-ffffffff?style=flat-square&logo=oracle&logoColor=fffffff&labelColor=F80000&color=F80000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffffff?style=flat-square&logo=postgresql&logoColor=fffffff&labelColor=4169E1&color=4169E1)
+
+---
+
 ## ❓ PPYOM은 뭔가요? 무슨 뜻인가요?
 
 개발자분들이 대부분 닉네임 하나씩 갖고 계신 것을 보고 슬쩍 만들어본 제 닉네임입니다!☺️
@@ -69,46 +108,9 @@
 
 #### DataBase
 - 기본적인 CRUD 작업을 할 수 있습니다.
-- 사용해본 RDBMS는 PostgreSQL, MySQL, Oracle이 있습니다.
+- PostgreSQL, MySQL, Oracle을 사용해봤습니다.
 
 </details>
 
-
-<!--
-**ppyom/ppyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## ✨
-
-### Front-End
-
-![HTML](https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=HTML5&logoColor=ffffff&labelColor=E34C26&color=E34C26)
-![CSS](https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=CSS3&logoColor=ffffff&labelColor=2965f1&color=2965f1)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=323330&labelColor=f0db4f&color=f0db4f)
-
-![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=ffffff&labelColor=61dafb&color=61dafb)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=3178c6&color=3178c6)
-
-### Back-End
-
-![Spring](https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=spring&logoColor=ffffff&labelColor=6db33f&color=6db33f)
-![Nodejs](https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Node.js&logoColor=ffffff&labelColor=3c873a&color=3c873a)
-![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=Express&logoColor=ffffff&labelColor=000000&color=000000)
-
-### DataBase
-
-![Oracle](https://img.shields.io/badge/Oracle-ffffffff?style=flat-square&logo=oracle&logoColor=fffffff&labelColor=F80000&color=F80000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffffff?style=flat-square&logo=postgresql&logoColor=fffffff&labelColor=4169E1&color=4169E1)
 
 -->
