@@ -12,8 +12,14 @@
 
 <!-- 정보 -->
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppyom&show_icons=true&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyom&layout=compact&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5) |
-|--|--|
+<!-- 이력서 사이트 주소 -->
+<!-- 블로그 주소 -->
+
+<!-- 통계 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppyom&show_icons=true&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyom&layout=compact&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom)
 
 </div>
 
