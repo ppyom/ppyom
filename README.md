@@ -1,27 +1,37 @@
-<div align="center">
-  
-# 🌟 PPYOM 🌟
+# 안녕하세요! 🌟 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyom&count_bg=%23EBD19D&title_bg=%235b5856&icon=&icon_color=%23FFFFFF&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyom&count_bg=%23EBD19D&title_bg=%235b5856&icon=&icon_color=%23FFFFFF&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-![profile](https://avatars.githubusercontent.com/u/146629880?v=4&s=350)
-
-안녕하세요!
-
-개발하는 게 너무 재미있는 웹 개발자(지망생) 이예진입니다.
+개발하는 게 너무 재미있는 웹 개발자(지망생) **이예진**입니다.
 
 <!-- 정보 -->
 
 <!-- 이력서 사이트 주소 -->
 <!-- 블로그 주소 -->
 
+<!-- 공부중 -->
+
+## 🌱 I’m currently learning
+
+> 현재 **프로그래머스 데브코스: 클라우드 기반 프론트엔드 엔지니어링**에서 프론트엔드 기술을 배우고있습니다.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=323330&labelColor=f0db4f&color=f0db4f)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=typescript&logoColor=ffffff&labelColor=3178c6&color=3178c6)
+![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=ffffff&labelColor=61dafb&color=61dafb)
+
+**Projects**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=bookbook&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom/bookbook)
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom/)
+-->
+
 <!-- 통계 -->
+
+## 📊 Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppyom&show_icons=true&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyom&layout=compact&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom)
-
-</div>
 
 <!--
 **ppyom/ppyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +40,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+- 👀 I’m interested in ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
