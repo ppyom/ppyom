@@ -20,7 +20,7 @@
 **Projects**
 
 [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=bookbook&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/ppyom/bookbook#gh-light-mode-only)
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=bookbook&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f500#gh-dark-mode-only)](https://github.com/ppyom/bookbook#gh-dark-mode-only)
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=bookbook&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom/bookbook#gh-dark-mode-only)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom/)
@@ -31,10 +31,10 @@
 ## 📊 Statistics
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ppyom&show_icons=true&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/ppyom#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ppyom&show_icons=true&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f500#gh-dark-mode-only)](https://github.com/ppyom#gh-dark-mode-only) 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ppyom&show_icons=true&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom#gh-dark-mode-only) 
 
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyom&layout=compact&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/ppyom#gh-light-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyom&layout=compact&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f500#gh-dark-mode-only)](https://github.com/ppyom#gh-dark-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=ppyom&layout=compact&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom#gh-dark-mode-only)
 
 <!--
 **ppyom/ppyom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
