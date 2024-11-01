@@ -23,6 +23,8 @@
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=bookbook&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom/bookbook#gh-dark-mode-only)
 [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=ppp&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/ppyom/ppp#gh-light-mode-only)
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=ppp&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom/ppp#gh-dark-mode-only)
+[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=NFE1-1-3-Broken_handle_truck_Frontend&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/ppyom/ppp#gh-light-mode-only)
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=NFE1-1-3-Broken_handle_truck_Frontend&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom/ppp#gh-dark-mode-only)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom/)
