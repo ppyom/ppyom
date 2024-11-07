@@ -1,4 +1,4 @@
-# 안녕하세요! 🌟 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyom&count_bg=%23EBD19D&title_bg=%235b5856&icon=&icon_color=%23FFFFFF&title=✨&edge_flat=false)](https://hits.seeyoufarm.com) -->
+# 안녕하세요! 🌟 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyom&count_bg=%23EBD19D&title_bg=%235b5856&icon=&icon_color=%23FFFFFF&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
 
 개발하는 게 너무 재미있는 웹 개발자(지망생) **이예진**입니다.
 
