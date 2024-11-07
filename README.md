@@ -1,4 +1,4 @@
-# 안녕하세요! 🌟 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyom&count_bg=%23EBD19D&title_bg=%235b5856&icon=&icon_color=%23FFFFFF&title=✨&edge_flat=false)](https://hits.seeyoufarm.com)
+# 안녕하세요! 🌟 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fppyom&count_bg=%23EBD19D&title_bg=%235b5856&icon=&icon_color=%23FFFFFF&title=✨&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 개발하는 게 너무 재미있는 웹 개발자(지망생) **이예진**입니다.
 
@@ -23,8 +23,8 @@
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=bookbook&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom/bookbook#gh-dark-mode-only)
 [![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=ppp&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/ppyom/ppp#gh-light-mode-only)
 [![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=ppp&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/ppyom/ppp#gh-dark-mode-only)
-[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=NFE1-1-3-Broken_handle_truck_Frontend&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/prgrms-fe-devcourse/NFE1-1-3-broken-handle-truck-Frontend#gh-light-mode-only)
-[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=NFE1-1-3-Broken_handle_truck_Frontend&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/prgrms-fe-devcourse/NFE1-1-3-broken-handle-truck-Frontend#gh-dark-mode-only)
+[![Readme Card-Light](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=NFE1-1-3-Broken_handle_truck_Frontend&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&border_radius=4.5&bg_color=f9f8f5#gh-light-mode-only)](https://github.com/prgrms-fe-devcourse/NFE1-1-3-broken-handle-truck-Frontend#gh-light-mode-only)
+[![Readme Card-Dark](https://github-readme-stats.vercel.app/api/pin/?username=prgrms-fe-devcourse&repo=NFE1-1-3-Broken_handle_truck_Frontend&title_color=ccb17b&text_color=f9f8f5&icon_color=3f97af&border_color=eae7dc&border_radius=4.5&bg_color=f9f8f555#gh-dark-mode-only)](https://github.com/prgrms-fe-devcourse/NFE1-1-3-broken-handle-truck-Frontend#gh-dark-mode-only)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppyom&repo=&title_color=ccb17b&text_color=21201f&icon_color=3f97af&border_color=eae7dc&bg_color=f9f8f5)](https://github.com/ppyom/)
